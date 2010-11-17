@@ -15,4 +15,5 @@ Instalation with macports
 ##Contributors and Credits
 
 John Whitlock - jwhitlock
+
 Patrick Forringer - destos

@@ -1,4 +1,4 @@
-<?php class ffmpeg{
+<?php class Kohana_ffmpeg{
 	
 	public $config;
 	
